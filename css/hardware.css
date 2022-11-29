@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+
+    
+
+}
+
+header img{
+    position: relative;
+    width: 100%;
+    
+}
+
+header nav ul {
+    position: absolute;
+    bottom: 55%;
+    left: 20%;
+    text-align: center;
+    font: bold 20px/20px Arial;
+    letter-spacing: 2px;
+    padding: 0 0 10% 10%;
+    
+    
+
+}
+
+header nav ul li{
+    display: inline;
+    color: aliceblue;
+}
+
+p{
+    margin: 3rem;
+}
+
+h2{
+    margin-left: 1rem;
+}
+
+
+h3{
+    margin-left: 2rem;
+    color: gray;
+}
+
+.tipos{
+    padding: 0 0 15% 15%;
+    border-color: black;
+    border-width: 2px;
+    
+    
+     
+ }
+
+ .tipos img{
+    block-size: 200px;
+ }
+
+ main{
+    display: flex;
+    flex-wrap: wrap;
+}
